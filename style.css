@@ -1,0 +1,45 @@
+body,
+html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+#navigation-bar{
+    margin-bottom:0px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom:10px; 
+    }
+
+#image{
+  display: block;
+  vertical-align:middle;
+  margin:auto;
+  margin-top:20px;
+  border-radius: 50%;
+}
+
+#img-caption{
+  text-align:center;
+  margin-top:20px;
+}
+
+#header{
+  background-image: url(https://cdn.hipwallpaper.com/i/95/87/Ixfilo.jpg);
+  width:100%;
+  height:100%;
+  margin:0%;
+  margin-top:-20px;
+  padding:0%;
+  opacity:0.9;
+  /*background-size:cover;*/
+}
+
+
+#tribute-info{
+  margin-top:100px;
+  margin-left:150px;
+  margin-right:150px;
+}
